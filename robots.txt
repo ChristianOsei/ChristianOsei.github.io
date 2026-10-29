@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ChristianOsei.github.io/al-folio/sitemap.xml
+Sitemap: https://ChristianOsei.github.io/sitemap.xml
